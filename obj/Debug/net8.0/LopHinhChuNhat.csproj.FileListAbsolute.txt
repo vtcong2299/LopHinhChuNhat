@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\bin\Debug\net8.0\LopHinhChuNhat.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\refint\LopHinhChuNhat.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\LopHinhChuNhat.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\LopHinhChuNhat\obj\Debug\net8.0\ref\LopHinhChuNhat.dll
